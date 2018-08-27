@@ -1,0 +1,8 @@
+2018-08-03 12:22:16 INFO  TestBase:117 - loading config.properties
+2018-08-03 12:22:16 INFO  TestBase:122 - loading or.properties
+2018-08-03 12:22:16 INFO  TestBase:127 - loading homepage.properties
+2018-08-03 12:22:18 INFO  WaitHelper:31 - 30
+2018-08-03 12:22:18 INFO  WaitHelper:36 - 240
+2018-08-03 12:22:18 INFO  LoginTest:18 - com.bravvura.hri.loginPage.LoginTest started
+2018-08-03 12:22:26 INFO  WaitHelper:60 - element found...Sign in
+2018-08-03 12:22:26 INFO  LoginPage:50 - clicked on sign in link...
